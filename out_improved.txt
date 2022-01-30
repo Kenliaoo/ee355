@@ -1,0 +1,6 @@
+duplicated words are :
+file
+
+file
+
+number of words:9
